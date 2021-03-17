@@ -5,8 +5,8 @@ Because I scared of Corona Virus, so I cameback in VietNam. After cameback in Vi
 
 ## My hobby
 
-*Gym
-*Kichboxing
+* Gym
+* Kichboxing
 
 ## Concern
 
@@ -15,3 +15,6 @@ Somgthing else
 dgas
 gi
 A lot of thing to do
+what do you want to do
+I want to do something
+
