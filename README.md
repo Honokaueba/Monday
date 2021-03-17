@@ -17,4 +17,7 @@ gi
 A lot of thing to do
 what do you want to do
 I want to do something
+Do you want to drink ...
+It's so cool
+You are so beatyful
 
