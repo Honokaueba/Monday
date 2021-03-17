@@ -11,3 +11,7 @@ Because I scared of Corona Virus, so I cameback in VietNam. After cameback in Vi
 ## Concern
 
 I don't concern about anything. I think in my mind that " just do it", also I think this a good time to challenge myself
+Somgthing else
+dgas
+gi
+A lot of thing to do
