@@ -1,4 +1,5 @@
-#INTRODUTE AND BACKGROUND
+# INTRODUTE AND BACKGROUND
+
 My name is Quan. I learned Japanes in Japan more than two year.
 Because I scared of Corona Virus, so I cameback in VietNam. After cameback in VietNam, I worked as IT communicator.I translated Japanses to VietNames or English, also VietNames or English to Japanes. After a long time, I realized that i interested in programing. I want to develop website and app, So i decide to change my career path. That is the reason why I'm here now.
 
@@ -6,7 +7,6 @@ Because I scared of Corona Virus, so I cameback in VietNam. After cameback in Vi
 
 *Gym
 *Kichboxing
-\*Reading book(if i have free time)
 
 ## Concern
 
