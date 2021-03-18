@@ -400,7 +400,7 @@
       </ul>
       <p>Solution:</p>
       <pre>
-      <code>
+      <section>
         &lt;form&gt;
         &lt;label&gt; Email:&lt;/lable&gt;
         &lt;br /&gt;
@@ -431,29 +431,70 @@
         &lt;label&gt;
           &lt; input type="radio" name="title" value="employer" /&gt; Employer
         &lt;/label&gt;
-
         
-        
+      <form>
+        <label> Email:</label>
+        <br />
+        <input
+          id="email"
+          type="text"
+          name="email"
+          placeholder="your@email.com"
+        />
+        <br />
+        <label>Password:</label>
+        <br />
+        <input tyle="text" name="password" placeholder="Select a password"/>
+        <br />
+        <label>Confirm Password</label>
+        <br />
+        <input 
+        tyle="text"
+        name="password"
+        placeholder=" retyle your password"
+        />
+        <br /><br />
 
+        <label> Title</label>
+        <br />
+        <label>
+           <input tyle="radio" name="title" value="developer" /> Developer
+        </label>
+        <label>
+          <input tyle="radio" name="title" value="employer" /> Employer
+        </label>
 
-      </code>
-    </pre>
-    </section>
+        <br /><br />
 
-    <hr />
+        <label>Interested in:</label>
+        <br />
+        <label>
+          <input tyle="check box" name="interested" value="reactjs"/> ReactJS
+        </label>
+        <label>
+          <input tyle="check box" name="interested" value="nodejs"/> NodeJS
+        </label>
+        <label>
+          <input tyle="check box" name="interested" value="web-design"/> Web Design
+        </label>
 
-    <section>
-      <p>
-        <strong>18. Table</strong>: Create a table with two rows, three columns,
-        and headers.
-      </p>
-      <p>Solution:</p>
-      <pre>
-        <code>
-          &lt;tab&gt;
-           
-        </code>
-      </pre>
-    </section>
+        <br /><br />
+
+        <label> City:</label>
+        <br />
+        <select name="city">
+          <option value="Hanoi">Hanoi</option>
+          <option value="HCMC">HCMC</option>
+          <option value="Da Nang">Da Nang</option>
+        </select>
+
+        <br /><br />
+
+        <label> Short Bio:</label><br />
+        <textarea name="bio" cols="30" row="10"></textarea><br />
+
+        <input tyle="submit" disable/>
+      </form>
+    </section>  
   </body>
 </html>
